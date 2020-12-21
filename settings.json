@@ -1,0 +1,55 @@
+{
+  // editor
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Cobalt2",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.formatOnSave": true,
+  "window.menuBarVisibility": "toggle",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 15,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  // cursor
+  //   "editor.cursorSmoothCaretAnimation": true,
+  //   "editor.cursorBlinking": "expand",
+  // config related to code formatting
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true
+  },
+  "eslint.alwaysShowStatus": true,
+  //terminal
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontWeight": "normal",
+  // terminal customization
+  // "workbench.colorCustomizations": {
+  //   "terminal.foreground": "#A89984",
+  //   "terminalCursor.background": "#A89984",
+  //   "terminalCursor.foreground": "#A89984",
+  //   "terminal.ansiBlack": "#1D2021",
+  //   "terminal.ansiBlue": "#c4dee4",
+  //   "terminal.ansiBrightBlack": "#665C54",
+  //   "terminal.ansiBrightBlue": "#052a31",
+  //   "terminal.ansiBrightCyan": "#8BA59B",
+  //   "terminal.ansiBrightGreen": "#95C085",
+  //   "terminal.ansiBrightMagenta": "#8F4673",
+  //   "terminal.ansiBrightRed": "#FB543F",
+  //   "terminal.ansiBrightWhite": "#FDF4C1",
+  //   "terminal.ansiBrightYellow": "#FAC03B",
+  //   "terminal.ansiCyan": "#8BA59B",
+  //   "terminal.ansiGreen": "#95C085",
+  //   "terminal.ansiMagenta": "#8F4673",
+  //   "terminal.ansiRed": "#FB543F",
+  //   "terminal.ansiWhite": "#A89984",
+  //   "terminal.ansiYellow": "#FAC03B"
+  // },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.shell.linux": "/bin/bash",
+  "auto-rename-tag.activationOnLanguage": [
+    "*"
+  ],
+  "workbench.editor.enablePreviewFromQuickOpen": true
+}
