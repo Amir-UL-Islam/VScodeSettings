@@ -47,7 +47,8 @@
   //   "terminal.ansiYellow": "#FAC03B"
   // },
   "liveServer.settings.donotShowInfoMsg": true,
-  "terminal.integrated.shell.linux": "/bin/bash",
+  // enable bash for windows(git must needed)
+  //   "terminal.integrated.shell.linux": "/bin/bash", 
   "auto-rename-tag.activationOnLanguage": [
     "*"
   ],
